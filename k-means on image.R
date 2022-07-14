@@ -4,7 +4,7 @@ library(jpeg)
 library(grid)
 require(gridExtra)
 
-setwd("C:/Users/gwist/Desktop/3rdYear/Math336/Math336Project")
+setwd("YOUR WORKING DIRECTORY")
 
 # image.path is where you set the image name so that the algorithm
 # knows which image in the working directory to work on.
